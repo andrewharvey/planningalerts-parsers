@@ -104,7 +104,8 @@ module Scrapers
       BankstownScraper.new("Bankstown City Council", "Bankstown", "NSW"),
       CoffsHarbourScraper.new("Coffs Harbour City Council", "Coffs Harbour", "NSW"),
       TheHillsScraper.new("The Hills Shire Council", "The Hills", "NSW"),
-      HurstvilleScraper.new("Hurstville City Council", "Hurstville", "NSW")
+      HurstvilleScraper.new("Hurstville City Council", "Hurstville", "NSW"),
+      ShoalhavenScraper.new("Shoalhaven City Council", "Shoalhaven", "NSW")
     ]
   end
   
